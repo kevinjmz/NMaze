@@ -8,10 +8,12 @@ This is an example when N=10
 
 This is an example when N=50
 
+![Alt text](https://github.com/kevinjmz/NMaze/blob/master/n50.png?raw=true "N=10")
 
 
 This is an example when N=100
 
+![Alt text](https://github.com/kevinjmz/NMaze/blob/master/n100.png?raw=true "N=10")
 
 Cool huh?? 
 
